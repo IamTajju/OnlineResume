@@ -8,7 +8,7 @@ An interactive resume created using HTML(5), CSS(3) and Bootstrap (5)
 ## About Me
 ![alt text](https://github.com/IamTajju/OnlineResume/blob/master/resources/About-Me.png?raw=true)
 
-## Academics History
+## Academic History
 ![alt text](https://github.com/IamTajju/OnlineResume/blob/master/resources/Academics.png?raw=true)
 
 ## Work Experience
