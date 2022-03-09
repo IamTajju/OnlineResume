@@ -12,7 +12,7 @@ An interactive resume created using HTML(5), CSS(3) and Bootstrap (5)
 ![alt text](https://github.com/IamTajju/OnlineResume/blob/master/resources/Academics.png?raw=true)
 
 ## Work Experience
-![alt text](https://github.com/IamTajju/OnlineResume/blob/master/resources/Work Experience.png?raw=true)
+![alt text](https://github.com/IamTajju/OnlineResume/blob/master/resources/"Work Experience.png"?raw=true)
 
 ## Portfolio Section
 ![alt text](https://github.com/IamTajju/OnlineResume/blob/master/resources/Portfolio.png?raw=true)
